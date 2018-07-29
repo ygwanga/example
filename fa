@@ -1,0 +1,36 @@
+[33mcommit 9060f4a2e5c93fad9c7b06e39d6ce075a8a8030a[m
+Author: ygwanga <1844040604@qq.com>
+Date:   Mon Apr 23 16:04:13 2018 +0800
+
+    test 添加到远程仓库“
+
+[33mcommit cee977117f427965b30a343b2aff2c3ffbda5a56[m
+Merge: 9d1915d fc3c99f
+Author: ygwanga <1844040604@qq.com>
+Date:   Mon Apr 23 15:55:32 2018 +0800
+
+    Merge branch 'feature'
+
+[33mcommit 9d1915d33d60431e29018a994e26530291aa3488[m
+Author: ygwanga <1844040604@qq.com>
+Date:   Mon Apr 23 15:50:29 2018 +0800
+
+    master change
+
+[33mcommit fc3c99f696cc0a684a363b9ff3ab04e2bd8901a9[m
+Author: ygwanga <1844040604@qq.com>
+Date:   Mon Apr 23 15:43:56 2018 +0800
+
+    feature add
+
+[33mcommit 3bcaef5ce80da7846b1abf75f5c477faab391e93[m
+Author: ygwanga <1844040604@qq.com>
+Date:   Mon Apr 23 15:29:00 2018 +0800
+
+    add 111111111
+
+[33mcommit 74614f9410b055557f68fa1d323bdc6f8e8eaae7[m
+Author: wang <1844040604@qq.com>
+Date:   Mon Apr 23 11:59:31 2018 +0800
+
+    this is my first commit via Git
